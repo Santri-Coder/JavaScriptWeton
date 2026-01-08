@@ -1,34 +1,49 @@
-you can search your "Neptu weton, with real Java's Weton"
+you can search your Java's Weton with engine JavaScriptWeton
 
+kamu bisa cari weton jawa mu dengan mesin JavaScriptWeton
 
-how to use?
+panjenenengan saget golek'i weton jowo mu ngagem mesin JavaScriptWeton
 
+ꦥꦤ꧀ꦗꦺꦤꦺꦤꦺꦤ꧀ꦒꦤ꧀ ꦱꦒꦺꦠ꧀ ꦒꦺꦴꦭꦺꦏ꧀'iꦶ ꦮꦺꦠꦺꦴꦤ꧀ ꦗꦺꦴꦮꦺꦴ ꦩꦸ ꦤ꧀ꦒꦒꦺꦩ꧀ ꦩꦺꦱꦶꦤ꧀ ꦗꦮ꦳ꦱ꧀ꦕ꧀ꦫꦶꦥ꧀ꦠ꧀ꦮꦺꦠꦺꦴꦤ꧀
 
-chmod +x JavaScriptWeton.js
+------------------------------------------------------------------------
 
+how to install JavaScriptWeton
 
-node JavaScriptWeton.js
+bagaimana cara pasang JavaScriptWeton
 
+pripon coro masang JavaScriptWeton
+
+ꦥ꧀ꦫꦶꦥꦺꦴꦤ꧀ ꦕꦺꦴꦫꦺꦴ ꦩꦱꦤ꧀ꦒ꧀ ꦗꦮ꦳ꦱ꧀ꦕ꧀ꦫꦶꦥ꧀ꦠ꧀ꦮꦺꦠꦺꦴꦤ꧀
+
+------------------------------------------------------------------------
+
+1. git clone https://github.com/Santri-Coder/JavaScriptWeton
+
+2. cd JavaScriptWeton
+
+3. chmod +x JavaScriptWeton
+
+4. node JavaScriptWeton.js
+
+------------------------------------------------------------------------
 
 input your birthday
 
+masukan tanggal lahir anda
 
-tanggal : with number
+lebokake tanggal lair mu
 
+ꦭꦺꦧꦺꦴꦏꦏꦺ ꦠꦤ꧀ꦒ꧀ꦒꦭ꧀ ꦭꦻꦂ ꦩꦸ
 
-bulan : with number
+------------------------------------------------------------------------
 
+input your girlfriend's date of birth
 
-tahun : with number
+masukan tanggal lahir pasangan anda
 
+lebokake tanggal laire bakalane panjenengan
 
-example:
+ꦭꦺꦧꦺꦴꦏꦏꦺ ꦠꦤ꧀ꦒ꧀ꦒꦭ꧀ ꦭꦻꦫꦺ ꦧꦏꦭꦤꦺ ꦥꦤ꧀ꦗꦺꦤꦺꦤ꧀ꦒꦤ꧀
 
-
-tanggal : 1
-
-
-wulan   : 1
-
-
-taun    : 1999
+------------------------------------------------------------------------
