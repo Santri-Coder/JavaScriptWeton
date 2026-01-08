@@ -22,7 +22,7 @@ pripon coro masang JavaScriptWeton
 
 2. cd JavaScriptWeton
 
-3. chmod +x JavaScriptWeton
+3. chmod +x JavaScriptWeton.js
 
 4. node JavaScriptWeton.js
 
